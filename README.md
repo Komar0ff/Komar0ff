@@ -7,6 +7,7 @@
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+VimL         10 mins         ████████████████████▓░░░░   82.07 % 
+JavaScript   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.93 % 
 ```
 <!--END_SECTION:waka-->
