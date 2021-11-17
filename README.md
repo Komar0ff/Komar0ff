@@ -2,6 +2,8 @@
 <p>I'm currently a software engineer at <strong><a href="https://space307.com/">Space307</a></strong></p> 
 <p> In my spare time I develop games and support some github projects </p>
 
+![Metrics](https://metrics.lecoq.io/komar0ff)
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/ilya_komar0ff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilya_komar0ff" height="30" width="40" /></a>
