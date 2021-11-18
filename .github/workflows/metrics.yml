@@ -51,3 +51,7 @@ jobs:
           plugin_reactions_days: 14
           plugin_reactions_display: absolute
           plugin_reactions_details: percentage
+          plugin_notable: yes
+          plugin_notable_from: organization # Only display contributions within organization repositories
+          plugin_notable_repositories: yes  # Display repositories name instead of only organization name
+          plugin_notable_indepth: yes       # Gather additional informations about contributions
