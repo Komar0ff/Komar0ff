@@ -2,7 +2,7 @@
 <p>I'm currently a software engineer at <strong><a href="https://space307.com/">Space307</a></strong></p> 
 <p> In my spare time I develop games and support some github projects </p>
 
-![Metrics](https://metrics.lecoq.io/komar0ff)
+![Metrics](https://github.com/komar0ff/komar0ff/blob/master/github-metrics.svg)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
