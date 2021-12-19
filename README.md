@@ -1,5 +1,6 @@
 <h2>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://space307.com/">Space307</a></strong></p> 
+
+TODO: UPDATE README 
 
 ### Now playing on Spotify 🎧
 
