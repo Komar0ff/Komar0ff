@@ -1,14 +1,5 @@
 <h2>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://space307.com/">Space307</a></strong></p> 
-<p> In my spare time I develop games and support some github projects </p>
-
-![Metrics](https://github.com/komar0ff/komar0ff/blob/master/github-metrics.svg)
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://twitter.com/ilya_komar0ff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilya_komar0ff" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8768654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-
 
 ### Now playing on Spotify 🎧
 
